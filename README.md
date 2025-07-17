@@ -36,6 +36,8 @@ This Arduino project demonstrates how to control three individual LEDs using thr
 ### Pushbuttons:
 - One side of each button goes to **+5V**.
 - The other side connects to Arduino digital pin (2, 3, 4) **and** to GND through a **10kΩ pull-down resistor**.
+---
+<img width="600" height="667" alt="‏لقطة الشاشة ٢٠٢٥-٠٧-١٧ في ٩ ٥٥ ٥٥ م" src="https://github.com/user-attachments/assets/60dcba85-2edf-4649-9716-cb78905d2887" />
 
 ---
 
